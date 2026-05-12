@@ -8,6 +8,7 @@ simple, distraction-free editor
 project-based file workspace
 fast iteration loop for “vibecoding” workflows
 expandable architecture for future tools and plugins
+
 🎯 philosophy
 
 cafe. is built around the idea that coding shouldn’t feel locked behind complex tooling or paywalled ecosystems — it should feel fast, creative, and personal.
